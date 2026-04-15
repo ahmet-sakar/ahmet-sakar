@@ -1,2 +1,3 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmet-sakar&theme=dark)](https://github.com/ahmet-sakar/github-readme-stats) &nbsp;&nbsp;
-![Ahmet Şakar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmet-sakar&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=ahmet-sakar&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=ahmet-sakar&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ahmet-sakar&layout=compact&theme=tokyonight)
